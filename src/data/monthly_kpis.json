@@ -1,0 +1,650 @@
+[
+  {
+    "month": "2025-01",
+    "total_sessions": 63,
+    "total_participants": 1095,
+    "total_cost_inr": 38586.11,
+    "cost_per_participant": 35.24,
+    "cost_per_session": 612.48,
+    "quality_issue_rate": 0.159,
+    "verification_rate": 0.857,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 15,
+        "participants": 263,
+        "cost": 5874.66,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 17,
+        "participants": 327,
+        "cost": 8884.53,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 17,
+        "participants": 264,
+        "cost": 20771.08,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 14,
+        "participants": 241,
+        "cost": 3055.84,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-02",
+    "total_sessions": 64,
+    "total_participants": 1151,
+    "total_cost_inr": 33547.51,
+    "cost_per_participant": 29.15,
+    "cost_per_session": 524.18,
+    "quality_issue_rate": 0.219,
+    "verification_rate": 0.891,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 17,
+        "participants": 297,
+        "cost": 6298.05,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 16,
+        "participants": 326,
+        "cost": 8880.8,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 11,
+        "participants": 204,
+        "cost": 14205.01,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 20,
+        "participants": 324,
+        "cost": 4163.65,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-03",
+    "total_sessions": 57,
+    "total_participants": 936,
+    "total_cost_inr": 36074.64,
+    "cost_per_participant": 38.54,
+    "cost_per_session": 632.89,
+    "quality_issue_rate": 0.07,
+    "verification_rate": 0.842,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 13,
+        "participants": 230,
+        "cost": 4823.58,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 12,
+        "participants": 175,
+        "cost": 6366.15,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 16,
+        "participants": 279,
+        "cost": 21267.36,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 16,
+        "participants": 252,
+        "cost": 3617.55,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-04",
+    "total_sessions": 66,
+    "total_participants": 1118,
+    "total_cost_inr": 36003.06,
+    "cost_per_participant": 32.2,
+    "cost_per_session": 545.5,
+    "quality_issue_rate": 0.061,
+    "verification_rate": 0.818,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 21,
+        "participants": 320,
+        "cost": 7231.62,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 14,
+        "participants": 217,
+        "cost": 7607.24,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 14,
+        "participants": 259,
+        "cost": 17674.06,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 17,
+        "participants": 322,
+        "cost": 3490.14,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-05",
+    "total_sessions": 76,
+    "total_participants": 1259,
+    "total_cost_inr": 41741.55,
+    "cost_per_participant": 33.15,
+    "cost_per_session": 549.23,
+    "quality_issue_rate": 0.132,
+    "verification_rate": 0.829,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 17,
+        "participants": 327,
+        "cost": 6662.92,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 23,
+        "participants": 325,
+        "cost": 12104.39,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 15,
+        "participants": 241,
+        "cost": 18464.1,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 21,
+        "participants": 366,
+        "cost": 4510.14,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-06",
+    "total_sessions": 59,
+    "total_participants": 1012,
+    "total_cost_inr": 38357.39,
+    "cost_per_participant": 37.9,
+    "cost_per_session": 650.13,
+    "quality_issue_rate": 0.169,
+    "verification_rate": 0.932,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 15,
+        "participants": 273,
+        "cost": 5577.07,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 15,
+        "participants": 231,
+        "cost": 7775.23,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 18,
+        "participants": 308,
+        "cost": 22626.26,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 11,
+        "participants": 200,
+        "cost": 2378.83,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-07",
+    "total_sessions": 64,
+    "total_participants": 1165,
+    "total_cost_inr": 36471.68,
+    "cost_per_participant": 31.31,
+    "cost_per_session": 569.87,
+    "quality_issue_rate": 0.062,
+    "verification_rate": 0.891,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 12,
+        "participants": 226,
+        "cost": 4411.48,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 16,
+        "participants": 289,
+        "cost": 8303.43,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 16,
+        "participants": 284,
+        "cost": 19782.35,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 20,
+        "participants": 366,
+        "cost": 3974.42,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-08",
+    "total_sessions": 77,
+    "total_participants": 1261,
+    "total_cost_inr": 41498.81,
+    "cost_per_participant": 32.91,
+    "cost_per_session": 538.95,
+    "quality_issue_rate": 0.039,
+    "verification_rate": 0.909,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 19,
+        "participants": 292,
+        "cost": 6851.72,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 14,
+        "participants": 200,
+        "cost": 7408.93,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 17,
+        "participants": 323,
+        "cost": 21504.66,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 27,
+        "participants": 446,
+        "cost": 5733.5,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-09",
+    "total_sessions": 47,
+    "total_participants": 855,
+    "total_cost_inr": 28103.42,
+    "cost_per_participant": 32.87,
+    "cost_per_session": 597.95,
+    "quality_issue_rate": 0.106,
+    "verification_rate": 0.809,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 12,
+        "participants": 160,
+        "cost": 4307.18,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 9,
+        "participants": 182,
+        "cost": 4913.83,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 13,
+        "participants": 278,
+        "cost": 16419.22,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 13,
+        "participants": 235,
+        "cost": 2463.19,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-10",
+    "total_sessions": 76,
+    "total_participants": 1290,
+    "total_cost_inr": 42564.69,
+    "cost_per_participant": 33.0,
+    "cost_per_session": 560.06,
+    "quality_issue_rate": 0.053,
+    "verification_rate": 0.895,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 25,
+        "participants": 407,
+        "cost": 9236.3,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 19,
+        "participants": 339,
+        "cost": 10405.25,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 16,
+        "participants": 253,
+        "cost": 19610.91,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 16,
+        "participants": 291,
+        "cost": 3312.23,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-11",
+    "total_sessions": 74,
+    "total_participants": 1207,
+    "total_cost_inr": 41090.51,
+    "cost_per_participant": 34.04,
+    "cost_per_session": 555.28,
+    "quality_issue_rate": 0.054,
+    "verification_rate": 0.919,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 18,
+        "participants": 312,
+        "cost": 6523.57,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 25,
+        "participants": 427,
+        "cost": 13264.5,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 14,
+        "participants": 195,
+        "cost": 17758.16,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 17,
+        "participants": 273,
+        "cost": 3544.28,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2025-12",
+    "total_sessions": 79,
+    "total_participants": 1371,
+    "total_cost_inr": 40068.69,
+    "cost_per_participant": 29.23,
+    "cost_per_session": 507.2,
+    "quality_issue_rate": 0.114,
+    "verification_rate": 0.835,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 18,
+        "participants": 308,
+        "cost": 6774.28,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 23,
+        "participants": 428,
+        "cost": 12468.92,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 13,
+        "participants": 197,
+        "cost": 15504.53,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 25,
+        "participants": 438,
+        "cost": 5320.96,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-01",
+    "total_sessions": 70,
+    "total_participants": 1244,
+    "total_cost_inr": 42853.4,
+    "cost_per_participant": 34.45,
+    "cost_per_session": 612.19,
+    "quality_issue_rate": 0.143,
+    "verification_rate": 0.871,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 17,
+        "participants": 369,
+        "cost": 5937.92,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 18,
+        "participants": 311,
+        "cost": 9405.85,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 20,
+        "participants": 337,
+        "cost": 24302.34,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 15,
+        "participants": 227,
+        "cost": 3207.29,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-02",
+    "total_sessions": 70,
+    "total_participants": 1264,
+    "total_cost_inr": 40989.38,
+    "cost_per_participant": 32.43,
+    "cost_per_session": 585.56,
+    "quality_issue_rate": 0.086,
+    "verification_rate": 0.843,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 22,
+        "participants": 397,
+        "cost": 8428.66,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 14,
+        "participants": 227,
+        "cost": 7028.14,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 17,
+        "participants": 339,
+        "cost": 22000.92,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 17,
+        "participants": 301,
+        "cost": 3531.66,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-03",
+    "total_sessions": 75,
+    "total_participants": 1344,
+    "total_cost_inr": 44438.82,
+    "cost_per_participant": 33.06,
+    "cost_per_session": 592.52,
+    "quality_issue_rate": 0.187,
+    "verification_rate": 0.88,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 21,
+        "participants": 360,
+        "cost": 7717.82,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 20,
+        "participants": 444,
+        "cost": 10460.18,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 17,
+        "participants": 272,
+        "cost": 22721.12,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 17,
+        "participants": 268,
+        "cost": 3539.7,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-04",
+    "total_sessions": 71,
+    "total_participants": 1170,
+    "total_cost_inr": 45376.17,
+    "cost_per_participant": 38.78,
+    "cost_per_session": 639.1,
+    "quality_issue_rate": 0.155,
+    "verification_rate": 0.845,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 17,
+        "participants": 258,
+        "cost": 6029.61,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 15,
+        "participants": 206,
+        "cost": 7744.16,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 22,
+        "participants": 393,
+        "cost": 27861.24,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 17,
+        "participants": 313,
+        "cost": 3741.16,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-05",
+    "total_sessions": 63,
+    "total_participants": 1102,
+    "total_cost_inr": 39927.17,
+    "cost_per_participant": 36.23,
+    "cost_per_session": 633.76,
+    "quality_issue_rate": 0.048,
+    "verification_rate": 0.841,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 23,
+        "participants": 417,
+        "cost": 8342.67,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 10,
+        "participants": 134,
+        "cost": 5119.48,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 19,
+        "participants": 410,
+        "cost": 24132.64,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 11,
+        "participants": 141,
+        "cost": 2332.38,
+        "target_sessions": 11
+      }
+    }
+  },
+  {
+    "month": "2026-06",
+    "total_sessions": 49,
+    "total_participants": 800,
+    "total_cost_inr": 24530.55,
+    "cost_per_participant": 30.66,
+    "cost_per_session": 500.62,
+    "quality_issue_rate": 0.122,
+    "verification_rate": 0.98,
+    "programme_breakdown": {
+      "P001": {
+        "sessions": 21,
+        "participants": 378,
+        "cost": 7737.77,
+        "target_sessions": 26
+      },
+      "P002": {
+        "sessions": 7,
+        "participants": 117,
+        "cost": 3460.3,
+        "target_sessions": 16
+      },
+      "P003": {
+        "sessions": 8,
+        "participants": 136,
+        "cost": 10519.11,
+        "target_sessions": 6
+      },
+      "P004": {
+        "sessions": 13,
+        "participants": 169,
+        "cost": 2813.37,
+        "target_sessions": 11
+      }
+    }
+  }
+]

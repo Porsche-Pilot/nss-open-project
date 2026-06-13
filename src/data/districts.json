@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dharwad",
+    "state": "Karnataka",
+    "region": "South"
+  },
+  {
+    "name": "Raichur",
+    "state": "Karnataka",
+    "region": "South"
+  },
+  {
+    "name": "Jhansi",
+    "state": "Uttar Pradesh",
+    "region": "North"
+  },
+  {
+    "name": "Fatehpur",
+    "state": "Uttar Pradesh",
+    "region": "North"
+  },
+  {
+    "name": "Nandurbar",
+    "state": "Maharashtra",
+    "region": "West"
+  },
+  {
+    "name": "Washim",
+    "state": "Maharashtra",
+    "region": "West"
+  },
+  {
+    "name": "Purulia",
+    "state": "West Bengal",
+    "region": "East"
+  },
+  {
+    "name": "Bankura",
+    "state": "West Bengal",
+    "region": "East"
+  },
+  {
+    "name": "Dhamtari",
+    "state": "Chhattisgarh",
+    "region": "Central"
+  },
+  {
+    "name": "Korba",
+    "state": "Chhattisgarh",
+    "region": "Central"
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "total_active_beneficiaries": 429,
+  "total_enrolled": 500,
+  "retention_rate": 0.858,
+  "avg_reading_improvement": 7.9,
+  "avg_math_improvement": 6.4,
+  "avg_digital_improvement": 5.1,
+  "by_gender": {
+    "Female": {
+      "count": 225,
+      "avg_reading_improvement": 8.1,
+      "avg_math_improvement": 6.3,
+      "avg_attendance": 0.69
+    },
+    "Male": {
+      "count": 197,
+      "avg_reading_improvement": 7.8,
+      "avg_math_improvement": 6.5,
+      "avg_attendance": 0.7
+    },
+    "Other": {
+      "count": 7,
+      "avg_reading_improvement": 6.1,
+      "avg_math_improvement": 3.4,
+      "avg_attendance": 0.62
+    }
+  },
+  "by_category": {
+    "General": {
+      "count": 98,
+      "avg_reading_improvement": 8.0,
+      "avg_math_improvement": 6.6,
+      "avg_attendance": 0.69
+    },
+    "OBC": {
+      "count": 161,
+      "avg_reading_improvement": 7.9,
+      "avg_math_improvement": 6.3,
+      "avg_attendance": 0.68
+    },
+    "SC": {
+      "count": 106,
+      "avg_reading_improvement": 8.0,
+      "avg_math_improvement": 6.0,
+      "avg_attendance": 0.7
+    },
+    "ST": {
+      "count": 64,
+      "avg_reading_improvement": 7.9,
+      "avg_math_improvement": 6.7,
+      "avg_attendance": 0.7
+    }
+  },
+  "by_district": {
+    "Dharwad": {
+      "count": 45,
+      "state": "Karnataka",
+      "region": "South",
+      "avg_reading_improvement": 7.9,
+      "avg_math_improvement": 6.2,
+      "avg_attendance": 0.69
+    },
+    "Raichur": {
+      "count": 37,
+      "state": "Karnataka",
+      "region": "South",
+      "avg_reading_improvement": 7.7,
+      "avg_math_improvement": 5.3,
+      "avg_attendance": 0.63
+    },
+    "Jhansi": {
+      "count": 55,
+      "state": "Uttar Pradesh",
+      "region": "North",
+      "avg_reading_improvement": 7.3,
+      "avg_math_improvement": 7.1,
+      "avg_attendance": 0.71
+    },
+    "Fatehpur": {
+      "count": 36,
+      "state": "Uttar Pradesh",
+      "region": "North",
+      "avg_reading_improvement": 6.7,
+      "avg_math_improvement": 5.7,
+      "avg_attendance": 0.68
+    },
+    "Nandurbar": {
+      "count": 44,
+      "state": "Maharashtra",
+      "region": "West",
+      "avg_reading_improvement": 8.8,
+      "avg_math_improvement": 6.4,
+      "avg_attendance": 0.71
+    },
+    "Washim": {
+      "count": 44,
+      "state": "Maharashtra",
+      "region": "West",
+      "avg_reading_improvement": 7.3,
+      "avg_math_improvement": 5.7,
+      "avg_attendance": 0.67
+    },
+    "Purulia": {
+      "count": 39,
+      "state": "West Bengal",
+      "region": "East",
+      "avg_reading_improvement": 8.7,
+      "avg_math_improvement": 6.3,
+      "avg_attendance": 0.69
+    },
+    "Bankura": {
+      "count": 44,
+      "state": "West Bengal",
+      "region": "East",
+      "avg_reading_improvement": 7.5,
+      "avg_math_improvement": 6.7,
+      "avg_attendance": 0.73
+    },
+    "Dhamtari": {
+      "count": 43,
+      "state": "Chhattisgarh",
+      "region": "Central",
+      "avg_reading_improvement": 8.5,
+      "avg_math_improvement": 6.3,
+      "avg_attendance": 0.72
+    },
+    "Korba": {
+      "count": 42,
+      "state": "Chhattisgarh",
+      "region": "Central",
+      "avg_reading_improvement": 9.2,
+      "avg_math_improvement": 7.6,
+      "avg_attendance": 0.67
+    }
+  }
+}

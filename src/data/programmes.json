@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P001",
+    "name": "After-School Tutoring",
+    "type": "education",
+    "cost_per_session": 350,
+    "target_beneficiaries": 200,
+    "target_sessions": 480
+  },
+  {
+    "id": "P002",
+    "name": "Digital Literacy Labs",
+    "type": "digital",
+    "cost_per_session": 500,
+    "target_beneficiaries": 150,
+    "target_sessions": 300
+  },
+  {
+    "id": "P003",
+    "name": "Teacher Training Workshops",
+    "type": "training",
+    "cost_per_session": 1200,
+    "target_beneficiaries": 80,
+    "target_sessions": 120
+  },
+  {
+    "id": "P004",
+    "name": "Parent Engagement Drives",
+    "type": "community",
+    "cost_per_session": 200,
+    "target_beneficiaries": 300,
+    "target_sessions": 200
+  }
+]
